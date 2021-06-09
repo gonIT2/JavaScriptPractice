@@ -1,0 +1,1 @@
+document.write('코딩왕 재곤')
